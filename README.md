@@ -1,8 +1,10 @@
 # Hi, I'm Lyn!
 
 I'm a software developer, hobby photographer, and traveler. I've worked extensively in the Microsoft Power Plaform, and recently completed a Web Development Bootcamp to enhance my cloud-based skills. My recent and current projects are pinned below.
-#### Links:
-- [FinMeander](https://finmeander.com/)
+
+## &#x270d; Blogs
+- [Medium](https://medium.com/fin-dev)A collection of my tech-related writings
+- [FinMeander](https://finmeander.com/)WordPress blog administrated by me, authored by my husband, covering our 4-month travels in Europe
 <!--
 
 Here are some ideas to get you started:

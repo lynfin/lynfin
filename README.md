@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi, I'm Lyn!
 
+I'm a software developer, hobby photographer, and traveler. I've worked extensively in the Microsoft Power Plaform, and recently completed a Web Development Bootcamp to enhance my cloud-based skills. My recent and current projects are pinned below.
+#### Links:
+- [FinMeander](https://finmeander.com/)
 <!--
-**lynfin/lynfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

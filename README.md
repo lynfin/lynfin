@@ -5,6 +5,14 @@ I'm a software developer, hobby photographer, and traveler. I've worked extensiv
 ## &#x270d; Blogs
 - [Medium](https://medium.com/fin-dev) A collection of my tech-related writings
 - [FinMeander](https://finmeander.com/) WordPress blog administered by me, authored by my husband, covering our 4-month travels in Europe
+
+You can find me on [![LinkedIn][1.2]][1].
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/lynfin/lynfin/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to social media accounts -->
+[1]: https://www.linkedin.com/in/lyn-finman/
 <!--
 
 Here are some ideas to get you started:

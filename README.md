@@ -9,7 +9,7 @@ I'm a software developer, hobby photographer, and traveler. I've worked extensiv
 You can find me on [![LinkedIn][1.2]][1].
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/lynfin/lynfin/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/lynfin/lynfin/main/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to social media accounts -->
 [1]: https://www.linkedin.com/in/lyn-finman/
